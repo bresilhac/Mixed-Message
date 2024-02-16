@@ -10,5 +10,5 @@ A message generator program powered by Javascript that gives a new randomized ou
 - Notes
 - Launch
 
-## General information
+## General Information
   
