@@ -30,8 +30,3 @@ The team came up with an interactive website that returns random messages at thr
 The techniques utilized was based on the lessons taught in [Codecademy's Full-Stack Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path).
 To achieve the modal pop up box, the developers took inpiration to this [resource](https://www.w3schools.com/howto/howto_css_modals.asp).
 
-## Notes
-The project was a collaborative effort of [Daniel Labrador](https://github.com/daniellabrador) and [Gabriel Allba](https://github.com/GabrielAllba). We live in different timezones, so the collaboration was done remotely.
-
-## Launch
-See [Mixed-Message](https://gabrielallba.github.io/Mixed-Message/) here.
