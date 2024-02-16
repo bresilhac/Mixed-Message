@@ -11,4 +11,5 @@ A message generator program powered by Javascript that gives a new randomized ou
 - Launch
 
 ## General Information
+Codecademy, as part of the career path training, requires its students to create a program that will showcase their knowledge obtained after following the first two JavaScript sections and demonstrate what the proponents know of JavaScript syntax so far. The course requires its students to write a program which outputs a message composed of at least three (3) random pieces of data.
   
