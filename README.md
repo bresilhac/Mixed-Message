@@ -30,4 +30,10 @@ The team came up with an interactive website that returns random messages at thr
 In the header section, below the developers' names are random items from an array that the program returned after the page is loaded; and
 ![image](https://github.com/bresilhac/Mixed-Message/assets/57829083/78031e2f-698f-4e87-91ca-f205ac0d8502)
 
+The button returns 6 random items from 3 independent arrays and 3 co-dependent arrays stored in an object.
+![image](https://github.com/bresilhac/Mixed-Message/assets/57829083/b39d17e6-dab0-4726-b639-9187fa05d76e)
+
+
+
+
 
