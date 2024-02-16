@@ -20,3 +20,5 @@ Codecademy, as part of the career path training, requires its students to create
 
 ## Setup
 To run this project, open a modern web browser that can run the technologies aforementioned. Since, making the webpage responsive is not a requirement, the webpage can only be viewed on a PC/Mac. Mobile web browsers may not be compatible for viewing the HTML file.
+
+## Features
