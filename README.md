@@ -9,3 +9,6 @@ A message generator program powered by Javascript that gives a new randomized ou
 - Status
 - Notes
 - Launch
+
+## General information
+  
