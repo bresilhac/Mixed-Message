@@ -27,3 +27,7 @@ The team came up with an interactive website that returns random messages at thr
 2 seconds after the page is loaded, a message will pop up on the browser with a quote that varies depending on what day it is when the user accessed the HTML file. The pop up message will also show the current day and the date;
 ![image](https://github.com/bresilhac/Mixed-Message/assets/57829083/72a6260b-a8ed-47c4-9361-a450259e40e1)
 
+In the header section, below the developers' names are random items from an array that the program returned after the page is loaded; and
+![image](https://github.com/bresilhac/Mixed-Message/assets/57829083/78031e2f-698f-4e87-91ca-f205ac0d8502)
+
+
