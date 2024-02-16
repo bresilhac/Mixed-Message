@@ -17,3 +17,5 @@ Codecademy, as part of the career path training, requires its students to create
 - HTML 5
 - CSS 3
 - JavaScript ES6
+
+## Setup
