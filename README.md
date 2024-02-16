@@ -22,3 +22,6 @@ Codecademy, as part of the career path training, requires its students to create
 To run this project, open a modern web browser that can run the technologies aforementioned. Since, making the webpage responsive is not a requirement, the webpage can only be viewed on a PC/Mac. Mobile web browsers may not be compatible for viewing the HTML file.
 
 ## Features
+The team came up with an interactive website that returns random messages at three specific key events:
+
+2 seconds after the page is loaded, a message will pop up on the browser with a quote that varies depending on what day it is when the user accessed the HTML file. The pop up message will also show the current day and the date;
