@@ -26,6 +26,6 @@ The team came up with an interactive website that returns random messages at thr
 3. The button returns 6 random items from 3 independent arrays and 3 co-dependent arrays stored in an object. <br><br> ![alt text](Images/zodiac-bot.png "Sample output of ZodiacBot button")
 
 ## Sources
-The techniques utilized was based on the lessons taught in [Codecademy's Backend Engineer Career Path]([(https://www.codecademy.com/career-journey/back-end-engineer]).
+The techniques utilized was based on the lessons taught in [Codecademy's Backend Engineer Career Path](https://www.codecademy.com/career-journey/back-end-engineer/).
 To achieve the modal pop up box, the developers took inpiration to this [resource](https://www.w3schools.com/howto/howto_css_modals.asp).
 
