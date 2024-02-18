@@ -5,6 +5,7 @@ A message generator program powered by Javascript that gives a new randomized ou
 - [General information](#general-information)
 - [Technologies](#technologies)
 - [Setup](#setup)
+- [Features](features)
   
 
 ## General information
